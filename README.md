@@ -1,8 +1,9 @@
 # DemoMD5
 
 Các bước chạy:
-1. Run spring boot application: mvn spring-boot:run
-2. Run Client: 
+1. cd to project
+2. Open cmd (Run spring boot application): mvn spring-boot:run
+3. Open cmd (Run Client): 
                 cd client
                  yarn serve
                  
